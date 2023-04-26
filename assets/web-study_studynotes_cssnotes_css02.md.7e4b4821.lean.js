@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as e}from"./chunks/framework.9928bc23.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web-study/studynotes/cssnotes/css02.md","lastUpdated":null}'),a={name:"web-study/studynotes/cssnotes/css02.md"};function o(c,n,r,d,p,_){return e(),t("div")}const u=s(a,[["render",o]]);export{l as __pageData,u as default};
